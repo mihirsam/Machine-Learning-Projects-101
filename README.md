@@ -31,7 +31,7 @@
     - scikit-learn
     
   ### Result
-    - ![Accuracy : 0.8153409090909091](Classification_Using_Decision_Tree/foo.png)
+    - ![Accuracy : 0.8153409090909091](Classification_Using_Decision_Trees/foo.png)
     
 ---
    
