@@ -6,7 +6,7 @@
 ## Table of Contents
 - [Regression Analysis](https://github.com/mihirsam/Machine-Learning-Projects-101/#regression-analysis)
 - [Classification Using Decision Tree](https://github.com/mihirsam/Machine-Learning-Projects-101/#classification-using-decision-tree)
-  
+- [Clustering Using k-Means](https://github.com/mihirsam/Machine-Learning-Projects-101/#clustering-using-k-means)
   
 ## Regression Analysis
   > Predicting overall rating of the player.
@@ -57,3 +57,5 @@
   ![Cool Days](https://cdn.discordapp.com/attachments/591746583389929490/591750263140777987/cool_days.png)
   #### **Warm Days**
   ![Warm Days](https://cdn.discordapp.com/attachments/591746583389929490/591750269612851231/warm_days.png)
+  
+---
