@@ -31,7 +31,8 @@
     - scikit-learn
     
   ### Result
-    - ![Accuracy : 0.8153409090909091](https://cdn.discordapp.com/attachments/591746583389929490/591746700721520650/foo.png)
+  - **Accuracy**
+  - ![**Accuracy** : 0.8153409090909091](https://cdn.discordapp.com/attachments/591746583389929490/591746700721520650/foo.png)
     
 ---
    
