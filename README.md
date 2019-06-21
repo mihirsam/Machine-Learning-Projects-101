@@ -14,10 +14,10 @@
   ### Dataset
     - [European Soccer Database](https://www.kaggle.com/hugomathien/soccer)
   ### Library
-    - sqlite3
-    - pandas
-    - scikit-learn
-    - math
+  - sqlite3
+  - pandas
+  - scikit-learn
+  - math
   ### Result
   > Accuracy using Root Mean Square Error : 1.448933508878247
 ---
@@ -29,12 +29,13 @@
     - [Daily Weather](https://mega.nz/#!wORzWKxY!7qz7AqNH-bHxWWMqRWq4OCcD4G3f7CO-u_9atTTXbe8)
   
   ### Library
-    - pandas
-    - scikit-learn
-    - matplotlib
-    
+  - pandas
+  - scikit-learn
+  - matplotlib
+
   ### Result
   - **Accuracy**
+  
   ![**Accuracy** : 0.8153409090909091](https://cdn.discordapp.com/attachments/591746583389929490/591746700721520650/foo.png)
     
 ---
@@ -43,12 +44,12 @@
   > Clustering similars days together like **Cool days**, **Warm days**, etc.
   
   ### Dataset
-    - [Minute Weather](https://mega.nz/#!AXAhTYaa!61KxGBQw-aPiF4XAzJoGhdxZzLkKxD1jwl7ijSVfq8s)
+  - [Minute Weather](https://mega.nz/#!AXAhTYaa!61KxGBQw-aPiF4XAzJoGhdxZzLkKxD1jwl7ijSVfq8s)
   
   ### Library
-    - pandas
-    - scikit-learn
-    - matplotlib
+  - pandas
+  - scikit-learn
+  - matplotlib
     
   ### Result
   #### **Dry Days**
