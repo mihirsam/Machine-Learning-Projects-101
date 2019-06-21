@@ -12,7 +12,7 @@
   > Predicting overall rating of the player.
   
   ### Dataset
-    - [European Soccer Database](https://www.kaggle.com/hugomathien/soccer)
+  - [European Soccer Database](https://www.kaggle.com/hugomathien/soccer)
   ### Library
   - sqlite3
   - pandas
@@ -26,7 +26,7 @@
   > Prediciting high humidity level.
   
   ### Dataset
-    - [Daily Weather](https://mega.nz/#!wORzWKxY!7qz7AqNH-bHxWWMqRWq4OCcD4G3f7CO-u_9atTTXbe8)
+  - [Daily Weather](https://mega.nz/#!wORzWKxY!7qz7AqNH-bHxWWMqRWq4OCcD4G3f7CO-u_9atTTXbe8)
   
   ### Library
   - pandas
